@@ -23,4 +23,6 @@ class MyVector{
 
 void aaa(){
     
+void push_back(double a){
+  
 }
