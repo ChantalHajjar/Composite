@@ -20,3 +20,7 @@ class MyVector{
     int capacity;
     double* ptr;  
 };
+
+void aaa(){
+    
+}
